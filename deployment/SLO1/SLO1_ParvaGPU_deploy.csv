@@ -1,0 +1,7 @@
+Num instance,Num GPU,Model,Placement,Instance size,Batch size,Num proc
+0,0,resnet50,4,3,64,2
+0,0,vgg19,2,2,32,2
+0,0,densenet121,0,2,16,3
+0,1,bert,0,1,128,3
+0,1,mobilenetv2,4,1,4,2
+0,1,inceptionv3,6,1,64,1
